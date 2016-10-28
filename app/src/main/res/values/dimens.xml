@@ -1,0 +1,47 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+
+    <dimen name="horizontal_margin">0dp</dimen>
+    <dimen name="vertical_margin">0dp</dimen>
+
+
+    <dimen name="margin_top">120dp</dimen>
+    <dimen name="margin_bottom">10dp</dimen>
+
+    <dimen name="width">280dp</dimen>
+    <dimen name="height">90dp</dimen>
+
+    <dimen name="width1">150dp</dimen>
+    <dimen name="top">392dp</dimen>
+
+    <dimen name="height1">230dp</dimen>
+    <dimen name="top1">300dp</dimen>
+    <dimen name="paddingL">15dp</dimen>
+    <dimen name="paddingT">20dp</dimen>
+    <dimen name="marginL">30dp</dimen>
+    <dimen name="marginT">30dp</dimen>
+    <dimen name="marginTop">15dp</dimen>
+
+
+    <dimen name="width2">100dp</dimen>
+    <dimen name="height2">50dp</dimen>
+
+
+    <dimen name="width3">2000dp</dimen>
+    <dimen name="height3">250dp</dimen>
+    <dimen name="top3">80dp</dimen>
+
+    <dimen name="marginR">22dp</dimen>
+    <dimen name="marginTo">22dp</dimen>
+    <dimen name="marginE">28dp</dimen>
+
+    <dimen name="marginTS">20dp</dimen>
+    <dimen name="paddingLS">50dp</dimen>
+    <dimen name="widthS">400dp</dimen>
+    <dimen name="heightS">300dp</dimen>
+
+</resources>

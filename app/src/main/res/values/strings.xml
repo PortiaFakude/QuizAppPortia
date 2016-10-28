@@ -1,0 +1,57 @@
+<resources>
+
+    <string name="app_name">QUIZ APP</string>
+    <string name="app_name1">ENTERTAINMENT</string>
+    <string name="app_name2">SPORTS</string>
+    <string name="app_name3">HISTORY</string>
+    <string name="startbutton">START QUIZ!</string>
+    <string name="category1">ENTERTAINMENT</string>
+    <string name="category2">SPORT</string>
+    <string name="category3">HISTORY</string>
+
+
+    <string name="film">Who is the protagonist in the Last Action Hero film?</string>
+    <string name="tvcomedy">Who is the comedian?</string>
+    <string name="music">Name of the famous solo musician?</string>
+    <string name="movie">Who was the leading actress in Sister act I en II?</string>
+
+
+    <string name="olympic">In which country were the first Olympic Games held?</string>
+    <string name="team">What is the nickname of the Belgian national soccer team?</string>
+    <string name="football">Who is a Portuguese professional footballer who plays for Portugal national team?</string>
+    <string name="volleyball">How many players are on each side of the net in beach volleyball?</string>
+
+
+    <string name="flag">Which country is represented by the flag?</string>
+    <string name="city">What is the capital city of England?</string>
+    <string name="president">Who was the first president of the USA?</string>
+    <string name="country">Which country sent its navy around the world to fight the Japanese in 1904?</string>
+
+    <string name="musicA">Beyonce Knowles</string>
+    <string name="musicA1">Rihanna</string>
+    <string name="musicA2">Mariah Carey</string>
+
+
+    <string name="filmA">Arnold Schwarzenegger</string>
+    <string name="tvcomedyA">Mr Bean</string>
+    <string name="musicAA">Beyonce Knowles</string>
+    <string name="movieA">Whoopi Goldberg</string>
+
+
+    <string name="olympicA">Greece</string>
+    <string name="teamA">Red devils</string>
+    <string name="footballA">Christiano Ronaldo</string>
+    <string name="volleyballA">Two players</string>
+
+    <string name="flagA">Canada</string>
+    <string name="cityA">London</string>
+    <string name="presidentA">George Washington</string>
+    <string name="countryA">Russia</string>
+
+    <string name="percentage">%</string>
+
+    <string name="score">...........</string>
+
+
+
+</resources>
